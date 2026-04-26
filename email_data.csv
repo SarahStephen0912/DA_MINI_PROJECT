@@ -1,0 +1,11 @@
+Sender,Receiver
+john.doe@gmail.com,alice.smith@yahoo.com
+john.doe@gmail.com,bob.martin@hotmail.com
+alice.smith@yahoo.com,carol.jones@gmail.com
+bob.martin@hotmail.com,alice.smith@yahoo.com
+carol.jones@gmail.com,david.lee@gmail.com
+david.lee@gmail.com,john.doe@gmail.com
+alice.smith@yahoo.com,bob.martin@hotmail.com
+carol.jones@gmail.com,john.doe@gmail.com
+bob.martin@hotmail.com,david.lee@gmail.com
+david.lee@gmail.com,alice.smith@yahoo.com
